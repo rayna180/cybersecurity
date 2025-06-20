@@ -29,7 +29,7 @@ The notebook includes:
 ## 📸 Dashboard Preview
 
 ### 🕒 Views Over Time
-![Views Over Time](data/Screenshot 2025-06-20 153222.png)
+![Views Over Time](data/Screenshot_2025-06-20_153222.png)
 
 ### 📊 Total Views by Hashtag
 ![Total Views Bar Chart](data/Screenshot_2025-06-20_153239.png)
