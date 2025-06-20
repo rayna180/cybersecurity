@@ -13,16 +13,6 @@ This project analyzes trending TikTok hashtags over an 8-week period using mock 
 This interactive dashboard analyzes trending TikTok hashtags over an 8-week period using mock data. Built with Streamlit, Plotly, and Pandas — it's a beginner-friendly data science project that visualizes hashtag performance over time.
 [Live Dashboard on Streamlit](https://tiktok-trend-tracker-aevtmbojcazffktbdypmxj.streamlit.app/)
 
-## 🚀 Running it Yourself
-
-Clone the repo, install dependencies, and launch locally:
-
-```bash
-git clone https://github.com/rayna180/cybersecurity.git
-cd cybersecurity/TikTok-Trend-Tracker
-pip install -r requirements.txt
-streamlit run dashboard.py
-
 ## 🗃️ Dataset
 
 Mock dataset includes:
@@ -61,4 +51,14 @@ The notebook includes:
 - Build a Streamlit dashboard for interactive viewing
 - Integrate real TikTok data via APIs
 - Compare hashtag trends across different content categories
+
+## 🚀 Running it Yourself
+
+Clone the repo, install dependencies, and launch locally:
+
+```bash
+git clone https://github.com/rayna180/cybersecurity.git
+cd cybersecurity/TikTok-Trend-Tracker
+pip install -r requirements.txt
+streamlit run dashboard.py
 
