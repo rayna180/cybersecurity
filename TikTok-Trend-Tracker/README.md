@@ -20,7 +20,7 @@ Mock dataset includes:
 - Weekly data for 8 weeks
 - Metrics: total views and video counts
 
-📁 [View dataset](../data/tiktok_trend_mock_data.csv)
+📁 [View dataset](/data/tiktok_trend_mock_data.csv)
 
 ## 📊 Notebook
 
