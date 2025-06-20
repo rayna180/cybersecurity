@@ -26,6 +26,8 @@ The notebook includes:
 
 📓 [View the notebook](data/explore_trends.ipynb)
 
+## 🚀 Live Dashboard on Streamlit
+
 🚀 [Live Dashboard on Streamlit](https://your-app-name.streamlit.app)
 
 ## 🖼️ Preview
