@@ -28,7 +28,7 @@ The notebook includes:
 
 ## 🚀 Live Dashboard on Streamlit
 
-[Live Dashboard on Streamlit]([https://your-app-name.streamlit.app](https://tiktok-trend-tracker-aevtmbojcazffktbdypmxj.streamlit.app/))
+[Live Dashboard on Streamlit](https://your-app-name.streamlit.app](https://tiktok-trend-tracker-aevtmbojcazffktbdypmxj.streamlit.app/))
 
 ## 🖼️ Preview
 
