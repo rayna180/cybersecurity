@@ -24,7 +24,7 @@ The notebook includes:
 - Grouped and time-series visualizations
 - Insights into the most engaging hashtags
 
-📓 [View the notebook](notebooks/explore_trends.ipynb)
+📓 [View the notebook](data/explore_trends.ipynb)
 
 ## 🛠️ Tools & Technologies
 
