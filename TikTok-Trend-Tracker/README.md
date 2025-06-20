@@ -29,7 +29,7 @@ The notebook includes:
 ## 🚀 Live Dashboard on Streamlit
 
 This interactive dashboard analyzes trending TikTok hashtags over an 8-week period using mock data. Built with Streamlit, Plotly, and Pandas — it's a beginner-friendly data science project that visualizes hashtag performance over time.
-[Live Dashboard on Streamlit](https://your-app-name.streamlit.app](https://tiktok-trend-tracker-aevtmbojcazffktbdypmxj.streamlit.app/))
+[Live Dashboard on Streamlit](https://tiktok-trend-tracker-aevtmbojcazffktbdypmxj.streamlit.app/)
 
 ## 🖼️ Preview
 
