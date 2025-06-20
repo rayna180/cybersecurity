@@ -26,13 +26,13 @@ The notebook includes:
 
 📓 [View the notebook](data/explore_trends.ipynb)
 
-## 📸 Dashboard Preview
+## 🖼️ Preview
 
-### 🕒 Views Over Time
-![Views Over Time](data/Screenshot_2025-06-20_153222.png)
+### 📈 Views Over Time
+![Views Over Time](./data/viewsovertime.png)
 
 ### 📊 Total Views by Hashtag
-![Total Views Bar Chart](data/Screenshot_2025-06-20_153239.png)
+![Total Views by Hashtag](./data/totalviewsbyhashtag.png)
 
 ## 🛠️ Tools & Technologies
 
