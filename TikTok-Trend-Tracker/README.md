@@ -8,6 +8,14 @@ This project analyzes trending TikTok hashtags over an 8-week period using mock 
 - Build visual insights using Matplotlib and Seaborn
 - Simulate real-world data exploration for social media analytics
 
+# 📊 TikTok Trend Tracker Dashboard
+
+[![Streamlit App](https://img.shields.io/badge/Live%20Demo-Streamlit-blue?logo=streamlit)](https://tiktok-trend-tracker-aevtmbojcazffktbdypmxj.streamlit.app/)
+[![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Powered%20By-Pandas-orange?logo=pandas)](https://pandas.pydata.org/)
+[![Plotly](https://img.shields.io/badge/Charts-Plotly-9cf?logo=plotly)](https://plotly.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## 🔥 Live Dashboard on Streamlit
 
 This interactive dashboard analyzes trending TikTok hashtags over an 8-week period using mock data. Built with Streamlit, Plotly, and Pandas — it's a beginner-friendly data science project that visualizes hashtag performance over time.
