@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 # Load data
-df = pd.read_csv("data/tiktok_trend_mock_data.csv")
+df = pd.read_csv("TikTok-Trend-Tracker/data/tiktok_trend_mock_data.csv")
 df['date'] = pd.to_datetime(df['date'])
 
 # Page config
