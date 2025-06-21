@@ -1,8 +1,8 @@
- import sqlite3
- import pandas as pd
- import streamlit as st
- import plotly.express as px
-+import os
+import sqlite3
+import pandas as pd
+import streamlit as st
+import plotly.express as px
+import os
 
  # Page configuration
  st.set_page_config(page_title="Sales Insights Dashboard", layout="wide")
