@@ -1,2 +1,2 @@
-# cybersecurity/Data projects
+# Cybersecurity/Data projects
  collection of hands-on labs/projects
