@@ -1,5 +1,7 @@
 # 📊 Sales Insights Dashboard
 
+An interactive analytics dashboard that uses **mock** retail sales data to demonstrate a complete workflow—from database creation and SQL querying to data visualization and deployment.
+
 [![Live on Streamlit](https://img.shields.io/badge/Live%20Demo-Streamlit-blue?logo=streamlit)](https://sales-insights-dashboard-2cjtkfakvpqodzfbyj4elf.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)](https://www.python.org/)  
 [![Streamlit](https://img.shields.io/badge/Streamlit-✅-orange?logo=streamlit)](https://streamlit.io/)  
@@ -61,10 +63,3 @@ https://sales-insights-dashboard-2cjtkfakvpqodzfbyj4elf.streamlit.app/
    SQL results are cached for near‐instant loading.
 
 ---
-
-## 🚀 Running Locally
-
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/yourusername/sales-insights-dashboard.git
-   cd sales-insights-dashboard
